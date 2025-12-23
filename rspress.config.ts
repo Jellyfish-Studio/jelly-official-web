@@ -32,6 +32,11 @@ export default defineConfig({
         mode: "link",
         content: "/about/contact",
       },
+      {
+        icon: "github",
+        mode: "link",
+        content: "https://github.com/Jellyfish-Studio",
+      },
     ],
     locales: [
       // {
